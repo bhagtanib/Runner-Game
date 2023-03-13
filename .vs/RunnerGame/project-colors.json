@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "23628c4d-7332-41bf-8f69-09f651ae9c24": {
+      "ProjectGuid": "23628c4d-7332-41bf-8f69-09f651ae9c24",
+      "DisplayName": "RunnerGame",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "b42607fd-944c-4808-a9f7-9d5ff1704557": {
+      "ProjectGuid": "b42607fd-944c-4808-a9f7-9d5ff1704557",
+      "DisplayName": "RunnerGame",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
